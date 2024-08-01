@@ -1,5 +1,6 @@
 - 공격 기능 </br>
-[Image]
+![screenshot1](https://github.com/user-attachments/assets/6994cd6b-d375-435f-817b-a21a1707878c)
+
 
 # 기능1
 ## 기능2
